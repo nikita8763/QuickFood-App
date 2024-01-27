@@ -1,5 +1,5 @@
 .topRestaurantsConatiner{
-    padding: 7rem 9rem 0rem 10rem;
+    padding: 7rem 12rem 0rem 12rem;
 }
 
 .topRestaurantsConatiner h2{
@@ -14,11 +14,11 @@
 
 .dominosImage, .pizzahutImage, .burgerKingImage, .pepsiImage{
     width: 9rem;
-    height: 8rem;
+    height: 7.5rem;
 }
 
 .starbucksImage{
-    width: 5rem;
+    width: 4rem;
     height: 4rem;
     padding-top: 2rem;
 }

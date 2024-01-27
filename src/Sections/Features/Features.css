@@ -1,6 +1,6 @@
 .featuresContainer{
     display: flex;
-    margin: 6rem 9rem 0rem 10rem;
+    margin: 6rem 12rem 0rem 12rem;
     background: var(--cream);
     justify-content: space-evenly;
     padding: 2rem 0rem 1.5rem 0rem;
