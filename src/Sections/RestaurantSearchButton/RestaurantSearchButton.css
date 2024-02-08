@@ -1,0 +1,12 @@
+.RestaurantSearchButtonContainer{
+    margin-top: 4rem;
+}
+
+.restaurantSearchButton{
+    padding: 0.7rem;
+    border: solid 1px gray;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    color: gray;
+    cursor: pointer;
+}
