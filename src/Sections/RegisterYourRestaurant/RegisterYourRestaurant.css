@@ -1,0 +1,63 @@
+.registerYourRestaurantContainer{
+    display: flex;
+    margin: 8rem 12rem 0rem 12rem;
+}
+
+.registerYourRestaurantContentDiv{
+    width: 50%;
+    margin-top: 5rem;
+}
+
+.becomeOneOfUsDiv{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.willingToDiv{
+    font-size: 2.5rem;
+    padding-left: 1rem;
+    color: var(--red);
+    font-weight: bold;
+    line-height: 3rem;
+}
+
+.startWithUsDiv{
+    font-size: 2.5rem;
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+.registerYourRestaurantPara{
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 1rem;
+}
+
+.registerYourRestaurantButton{
+    margin-left: 1rem;
+    padding: 10px 25px 10px 25px;
+    border-radius: 1rem;
+    cursor: pointer;
+    border: 0;
+    font-size: 0.9rem;
+    font-weight: 300;
+    background: var(--red);
+    color: white;
+}
+
+.beStyling{
+    background: rgb(244, 193, 193);
+    padding: 0rem 0rem 0rem 1rem;
+    border-radius: 1.2rem;
+}
+
+.chefDiv{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+.chefDiv img{
+    width: 30rem;
+    height: 35rem;
+}

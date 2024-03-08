@@ -1,0 +1,10 @@
+.footerContainer{
+    margin-top: 8rem;
+    background-color: rgb(246, 232, 216);
+    border-top: 1px solid;
+}
+
+.footerDiv{
+    text-align: center;
+    padding:1rem;
+}

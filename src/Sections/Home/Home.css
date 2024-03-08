@@ -11,7 +11,7 @@
 
 .getFasterDeliveryDiv{
     background: var(--cream);
-    margin-right: 26rem;
+    margin-right: 20rem;
     padding: 0.5rem 0rem 0.5rem 0.7rem;
     border-radius: 1rem;
 }
@@ -19,7 +19,7 @@
 .serviceInTownDiv{
     width: 80%;
     padding-top: 1rem;
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     font-weight: 700;
 }
 
@@ -32,9 +32,9 @@
     /* background: var(--red); */
     background-image: linear-gradient(to bottom right, red, #ff9a00);
     color: white;
-    width: 14%;
+    width: 16%;
     margin-top: 1.5rem;
-    padding: 0.5rem 0rem 0.5rem 0.7rem;
+    padding: 0.5rem 0rem 0.5rem 0.5rem;
     border-radius: 1rem;
     border: var(--red);
 }

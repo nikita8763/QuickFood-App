@@ -6,10 +6,8 @@ const RestaurantSearchButton = () => {
     const [restaurants, setRestaurants] = useState([]);
 
     useEffect (() => {
-        const fetchData = async () => {
-            const result = await axios.get('/restaurant')
-        }
-    })
+        fetch('api/restaurant/view/${id}')
+    }, []);
 
   return (
     <div className='RestaurantSearchButtonContainer'>
